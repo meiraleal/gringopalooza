@@ -746,6 +746,10 @@ video {
   margin-top: 1.5rem;
 }
 
+.mb-10 {
+  margin-bottom: 2.5rem;
+}
+
 .box-border {
   box-sizing: border-box;
 }
@@ -867,6 +871,14 @@ video {
 
 .w-full {
   width: 100%;
+}
+
+.w-\[400px\] {
+  width: 400px;
+}
+
+.w-\[380px\] {
+  width: 380px;
 }
 
 .flex-shrink {
@@ -1989,6 +2001,10 @@ video {
   padding-top: 0.5rem;
 }
 
+.pb-10 {
+  padding-bottom: 2.5rem;
+}
+
 .text-left {
   text-align: left;
 }
@@ -2555,6 +2571,10 @@ video {
 
   .sm\:h-\[800px\] {
     height: 800px;
+  }
+
+  .sm\:w-\[600px\] {
+    width: 600px;
   }
 
   .sm\:border-0 {
